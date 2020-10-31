@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _04_Outings_Program
 {
-    class ProgramUI
+    public class ProgramUI
     {
         private Outings_Repo _repo = new Outings_Repo();
         public void Run()
